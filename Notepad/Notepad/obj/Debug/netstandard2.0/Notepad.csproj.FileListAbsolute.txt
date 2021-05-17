@@ -1,0 +1,14 @@
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\bin\Debug\netstandard2.0\Notepad.deps.json
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\bin\Debug\netstandard2.0\Notepad.dll
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\bin\Debug\netstandard2.0\ref\Notepad.dll
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\bin\Debug\netstandard2.0\Notepad.pdb
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\Notepad.csprojAssemblyReference.cache
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\Notepad.AssemblyInfoInputs.cache
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\Notepad.AssemblyInfo.cs
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\Notepad.csproj.CoreCompileInputs.cache
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\XamlC.stamp
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\Notepad.dll
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\ref\Notepad.dll
+D:\java projects\FirstApp1\Notepad\Notepad\Notepad\obj\Debug\netstandard2.0\Notepad.pdb
